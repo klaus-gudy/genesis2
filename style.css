@@ -1,0 +1,44 @@
+body{
+  background-color: #EAF6F6;
+
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+img{
+  border-radius: 100%;
+}
+.welcome{
+  text-align: center;
+  font-size: 150%;
+}
+.hobbies{
+  text-align: center;
+}
+
+.football{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.swimming{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.fifa{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
