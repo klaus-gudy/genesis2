@@ -51,12 +51,18 @@ img{
 }
 .swim-img{
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 .foot-img{
   width: 25%;
+  float: right;
+  margin-left: 30px;
 }
 .fifa-img{
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 .fifa{
   width: 50%;
@@ -92,3 +98,4 @@ left: 30% ;
 right: auto;
 
 }
+
