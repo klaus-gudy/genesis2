@@ -18,12 +18,25 @@ hr{
 img{
   border-radius: 100%;
 }
+.top-img{
+  width: 60%;
+}
 .welcome{
   text-align: center;
   font-size: 150%;
 }
+.tb-1{
+  position: relative;
+  left: 30% ;
+  right: auto;
+}
 .hobbies{
   text-align: center;
+}
+.plang{
+  position: relative;
+  left: 30%;
+  right: auto;
 }
 
 .football{
@@ -36,6 +49,15 @@ img{
   margin: 100px auto 100px auto;
   text-align: left;
 }
+.swim-img{
+  width: 25%;
+}
+.foot-img{
+  width: 25%;
+}
+.fifa-img{
+  width: 25%;
+}
 .fifa{
   width: 50%;
   margin: 100px auto 100px auto;
@@ -43,7 +65,7 @@ img{
 
 }
 .contact{
-  margin-top: auto;
+  margin-top:20px;
   padding: 40px;
   text-align: center;
 }
@@ -63,4 +85,10 @@ footer{
 }
 h2{
   color: #66BFBF;
+}
+.row{
+position: relative;
+left: 30% ;
+right: auto;
+
 }
