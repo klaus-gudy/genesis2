@@ -42,3 +42,25 @@ img{
   text-align: left;
 
 }
+.contact{
+  margin-top: auto;
+  padding: 40px;
+  text-align: center;
+}
+.cont{
+  color: black;
+}
+a{
+  padding: 20px;
+  padding-top: none;
+}
+i{
+  font-family: sans-serif;
+  color: black;
+}
+footer{
+  background-color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
